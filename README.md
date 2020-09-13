@@ -1,1 +1,3 @@
-# PlayerDemo
+# Player Demo
+
+Warning: This repo is currently a non-functional version of the Player Demo for AudioKit v5. We are working on it...
